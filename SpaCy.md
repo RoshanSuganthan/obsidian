@@ -27,5 +27,20 @@ for ent in doc.ents:
 
 ```
 
+## How can I customize NER in spaCy for my use case?
+
+1. Add rule-based matching
+
+- Useful if there’s a finite number of examples that you want to find in the data, or if there’s a very clear, structured pattern
+- For instance, country names, IP addresses or URLs
+
+2. Train a custom model
+
+- Useful if you have examples and you want your system to generalize based on those examples
+- Works especially well if there are clues in the local context
+- For instance, person or company names
+
+You can also combine both approaches and improve a model with rules to handle very specific cases and boost accuracy.
+
 # Resources
 - jupyter notebook: spacy training Data - > https://nbviewer.org/github/kriesbeck/spacy-ner/blob/master/NER%20in%20spaCy.ipynb

@@ -4,31 +4,159 @@
     "type": "split",
     "children": [
       {
-        "id": "682d5342dc88671f",
+        "id": "487b5fe57c379959",
         "type": "tabs",
         "children": [
           {
-            "id": "a72cf9ba90f3a0fd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0fa0311071bd625e",
+            "id": "f202694b430bbc31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpaCy.md",
+                "file": "UPI/Complaint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4337b0747f90877",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "UPI/DRC_18.1.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "3ac3cf0aa12a0ed6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "UPI/DRC/DRC_UDM.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "08706b00afe4ab0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UPI/Remitter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f71032b7396ae85f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UPI/DRC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07922238232b860e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "UPI/DRC_18.1.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "108a7d5cbaa305a4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "UPI/DRC_18.1.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "0949f3d7abc90d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NER Model Approach.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfe07ddb68bafc8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UPI/DRC/validation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "147e4a5363b5b4a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UPI/Remitter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35978553bec011a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UPI/Complaint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1c0f376d733c4b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UPI/TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b0466854dd358c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UPI/TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -94,11 +222,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpaCy.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "NER Model Approach.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -111,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpaCy.md",
+                "file": "NER Model Approach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,11 +262,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpaCy.md"
+                "file": "NER Model Approach.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -152,13 +281,42 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0fa0311071bd625e",
+  "active": "0949f3d7abc90d3f",
   "lastOpenFiles": [
-    "Coding Standards/AI & ML Standards.md",
     "SpaCy.md",
+    "UPI.excalidraw.md",
+    "UPI/DRC.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "UPI/Complaint.md",
+    "UPI/API TO IMPLEMENT.md",
+    "UPI/18.3_Raise_complaint_RET.excalidraw.md",
+    "UPI/DRC/validation.md",
+    "UPI/TODO.md",
+    "UPI/Remitter.md",
+    "UPI/DRC/DRC_UDM.excalidraw.md",
+    "UPI/DRC_18.1.excalidraw.md",
+    "UPI/DRC",
+    "UPI/RET.md",
+    "UPI/URCS.md",
+    "UPI/TOTAL FLOW.canvas",
+    "Excalidraw/DRC.excalidraw.md",
+    "UPI/Drawing 2023-09-26 15.59.17.excalidraw.md",
+    "SteamLit.md",
+    "UPI/FLOW CHART.md",
+    "Excalidraw/Things to try in Excalidraw.md",
+    "Excalidraw",
+    "2023-09-25.md",
+    "UPI/TO_DO.md",
+    "UPI/TO.md",
+    "UPI",
     "Coding Standards"
   ]
 }

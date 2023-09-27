@@ -1,0 +1,2 @@
+- link pages in the mindmap
+- transclude texts
