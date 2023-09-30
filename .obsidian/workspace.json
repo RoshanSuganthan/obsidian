@@ -4,33 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "487b5fe57c379959",
+        "id": "9c3af05b679dc87e",
         "type": "tabs",
         "children": [
           {
-            "id": "f202694b430bbc31",
+            "id": "089b43ac437c1ae8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPI/Complaint.md",
+                "file": "UPI/Remitter.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e4337b0747f90877",
+            "id": "d9582a7a65f6161e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "UPI/DRC_18.1.excalidraw.md"
+                "file": "UPI/DRC/Drawing 2023-09-28 16.21.46.excalidraw.md"
               }
             }
           },
           {
-            "id": "3ac3cf0aa12a0ed6",
+            "id": "3e87ab4ed8afe637",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -40,7 +40,27 @@
             }
           },
           {
-            "id": "08706b00afe4ab0e",
+            "id": "1eb5fbac96a733c4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "UPI/DRC/DRC_UDM.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "112aec72c6d450e1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "UPI/DRC/Complaint/complaint.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "84bf583a50c45185",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,99 +72,7 @@
             }
           },
           {
-            "id": "f71032b7396ae85f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UPI/DRC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07922238232b860e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "UPI/DRC_18.1.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "108a7d5cbaa305a4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "UPI/DRC_18.1.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "0949f3d7abc90d3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NER Model Approach.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfe07ddb68bafc8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UPI/DRC/validation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "147e4a5363b5b4a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UPI/Remitter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35978553bec011a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UPI/Complaint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1c0f376d733c4b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UPI/TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b0466854dd358c2",
+            "id": "5c0d4fac7c68c12e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NER Model Approach.md",
+                "file": "UPI/DRC/Complaint/complaint.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -239,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NER Model Approach.md",
+                "file": "UPI/DRC/Complaint/complaint.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NER Model Approach.md"
+                "file": "UPI/DRC/Complaint/complaint.excalidraw.md"
               }
             }
           }
@@ -285,37 +213,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0949f3d7abc90d3f",
+  "active": "112aec72c6d450e1",
   "lastOpenFiles": [
+    "UPI/DRC/Complaint/complaint.excalidraw.png",
+    "UPI/Remitter.md",
+    "UPI/DRC/Complaint/complaint.excalidraw.md",
+    "UPI/API TO IMPLEMENT.md",
+    "UPI/DB/CASE.md",
+    "UPI/DB/DB Strucutre.md",
+    "UPI/DRC/validation.md",
+    "UPI/Complaint.md",
+    "UPI/DRC/DRC_UDM.excalidraw.md",
+    "DRC/complaint.excalidraw.md",
+    "DRC",
+    "UPI/DRC/Dispute",
+    "UPI/DRC/Refund",
+    "UPI/DRC/Reversal",
+    "UPI/DRC/Complaint",
+    "UPI/TODO.md",
+    "UPI/DRC/Drawing 2023-09-28 16.21.46.excalidraw.md",
+    "UPI/18.3_Raise_complaint_RET.excalidraw.md",
+    "UPI/DRC_18.1.excalidraw.md",
+    "UPI/DRC.md",
+    "UPI/DB",
+    "2023-09-27.md",
+    "2023-09-25.md",
+    "NER Model Approach.md",
     "SpaCy.md",
     "UPI.excalidraw.md",
-    "UPI/DRC.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.canvas",
     "Untitled.md",
-    "UPI/Complaint.md",
-    "UPI/API TO IMPLEMENT.md",
-    "UPI/18.3_Raise_complaint_RET.excalidraw.md",
-    "UPI/DRC/validation.md",
-    "UPI/TODO.md",
-    "UPI/Remitter.md",
-    "UPI/DRC/DRC_UDM.excalidraw.md",
-    "UPI/DRC_18.1.excalidraw.md",
     "UPI/DRC",
     "UPI/RET.md",
     "UPI/URCS.md",
     "UPI/TOTAL FLOW.canvas",
-    "Excalidraw/DRC.excalidraw.md",
-    "UPI/Drawing 2023-09-26 15.59.17.excalidraw.md",
-    "SteamLit.md",
-    "UPI/FLOW CHART.md",
-    "Excalidraw/Things to try in Excalidraw.md",
     "Excalidraw",
-    "2023-09-25.md",
-    "UPI/TO_DO.md",
-    "UPI/TO.md",
     "UPI",
     "Coding Standards"
   ]

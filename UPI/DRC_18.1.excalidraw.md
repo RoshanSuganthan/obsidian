@@ -341,8 +341,8 @@ Beneficiary ^Ok6ERqgV
 		},
 		{
 			"type": "arrow",
-			"version": 108,
-			"versionNonce": 853847537,
+			"version": 112,
+			"versionNonce": 635299793,
 			"isDeleted": false,
 			"id": "apFm1dYAZfgm9Tcnmquxp",
 			"fillStyle": "hachure",
@@ -352,11 +352,11 @@ Beneficiary ^Ok6ERqgV
 			"opacity": 100,
 			"angle": 0,
 			"x": -371.9648919356496,
-			"y": 5.9850237040346075,
+			"y": 5.985023704034702,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 274.6315789473683,
-			"height": 7.94799082606982,
+			"height": 7.947990826069758,
 			"seed": 1375202417,
 			"groupIds": [],
 			"frameId": null,
@@ -364,7 +364,7 @@ Beneficiary ^Ok6ERqgV
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1695731488734,
+			"updated": 1695895437283,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -387,7 +387,7 @@ Beneficiary ^Ok6ERqgV
 				],
 				[
 					274.6315789473683,
-					7.94799082606982
+					7.947990826069758
 				]
 			]
 		},
@@ -472,8 +472,8 @@ Beneficiary ^Ok6ERqgV
 		},
 		{
 			"type": "arrow",
-			"version": 427,
-			"versionNonce": 548021969,
+			"version": 431,
+			"versionNonce": 350045361,
 			"isDeleted": false,
 			"id": "DZgy8TN5Mk2sEjmc3YoQy",
 			"fillStyle": "hachure",
@@ -483,11 +483,11 @@ Beneficiary ^Ok6ERqgV
 			"opacity": 100,
 			"angle": 0,
 			"x": 131.3333740234375,
-			"y": 6.0812570811923905,
+			"y": -5.765795654014909,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 5.3333740234375,
-			"height": 4.044094219163135,
+			"width": 2.760366018011041,
+			"height": 3.198898902741611,
 			"seed": 1793003839,
 			"groupIds": [],
 			"frameId": null,
@@ -495,7 +495,7 @@ Beneficiary ^Ok6ERqgV
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1695731488740,
+			"updated": 1695895437292,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -517,8 +517,8 @@ Beneficiary ^Ok6ERqgV
 					0
 				],
 				[
-					-5.3333740234375,
-					-4.044094219163135
+					2.760366018011041,
+					3.198898902741611
 				]
 			]
 		},
@@ -598,8 +598,8 @@ Beneficiary ^Ok6ERqgV
 		},
 		{
 			"type": "arrow",
-			"version": 109,
-			"versionNonce": 305751697,
+			"version": 111,
+			"versionNonce": 1625721969,
 			"isDeleted": false,
 			"id": "Hwp2nqGzVGpnaGdyNS0Hv",
 			"fillStyle": "hachure",
@@ -621,7 +621,7 @@ Beneficiary ^Ok6ERqgV
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1695731488740,
+			"updated": 1695895437292,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -650,8 +650,8 @@ Beneficiary ^Ok6ERqgV
 		},
 		{
 			"type": "arrow",
-			"version": 39,
-			"versionNonce": 687451505,
+			"version": 41,
+			"versionNonce": 2115434321,
 			"isDeleted": false,
 			"id": "Qql30Zu0pwhh4gfz7ZXmY",
 			"fillStyle": "hachure",
@@ -673,7 +673,7 @@ Beneficiary ^Ok6ERqgV
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1695731488734,
+			"updated": 1695895437284,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -702,8 +702,8 @@ Beneficiary ^Ok6ERqgV
 		},
 		{
 			"type": "arrow",
-			"version": 33,
-			"versionNonce": 705676593,
+			"version": 35,
+			"versionNonce": 772544273,
 			"isDeleted": false,
 			"id": "DwUV1-_5uj_S1PSqqTaVX",
 			"fillStyle": "hachure",
@@ -725,7 +725,7 @@ Beneficiary ^Ok6ERqgV
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1695731488735,
+			"updated": 1695895437285,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -791,8 +791,8 @@ Beneficiary ^Ok6ERqgV
 		},
 		{
 			"type": "arrow",
-			"version": 34,
-			"versionNonce": 1394734865,
+			"version": 35,
+			"versionNonce": 460918001,
 			"isDeleted": false,
 			"id": "v72bADk0gt_CrcLFdywPa",
 			"fillStyle": "hachure",
@@ -802,7 +802,7 @@ Beneficiary ^Ok6ERqgV
 			"opacity": 100,
 			"angle": 0,
 			"x": -25.232369673879468,
-			"y": -28.8895829853259,
+			"y": -28.889582985325887,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 3.3333587646484446,
@@ -814,7 +814,7 @@ Beneficiary ^Ok6ERqgV
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1695731488735,
+			"updated": 1695895437285,
 			"link": null,
 			"locked": false,
 			"startBinding": {
