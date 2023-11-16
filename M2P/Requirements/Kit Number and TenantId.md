@@ -1,0 +1,7 @@
+- [ ] from front end send the tenant id and kitNumber
+- [ ] added tenant and kitnumber in complaint_entity 
+- [ ] added in complaint - >look for function or methods consuming this complaint
+- [ ] added in complaintCache -> look for function or methods consuming this complaintCache
+- [ ] in submit case block -> close case -> save compliant ->
+- [ ] make two column for tenant id, kitNumber in complaint as well as the chargeback DB
+- [ ] validation to be added 20 length with alphanumeric

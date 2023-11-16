@@ -1,0 +1,6 @@
+- [ ] comments in methods
+- [ ] clear comments while adding in 
+- [ ] use Optional and try catch 
+- [ ] try to minimize the functions
+- [ ] query calls in repository --> to reuse 
+- [ ] null check for all the scenarios

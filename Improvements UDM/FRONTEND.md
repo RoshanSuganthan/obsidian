@@ -1,0 +1,5 @@
+- UI screen should be responsive
+- Reports screen data not reponsive in 
+- Report page dispute category pagenation error
+- Report page chart not showing in 
+- 

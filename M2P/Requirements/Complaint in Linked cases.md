@@ -1,0 +1,4 @@
+- [ ] add tenant and kitnumber in complaint model
+- [ ] add a model which sends only the type
+- [ ]  getcasebyCaseNumber() - >add a complaint repository and add fetch complaint by casenumber
+- [ ] getCaseResponseList() ->

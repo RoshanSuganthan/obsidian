@@ -33,9 +33,11 @@
             "id": "3e87ab4ed8afe637",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "UPI/DRC/DRC_UDM.excalidraw.md"
+                "file": "Improvements UDM/14-11-23-ImageHandling/Approach.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -56,6 +58,54 @@
               "type": "excalidraw",
               "state": {
                 "file": "UPI/DRC/Complaint/complaint.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "443dfcfec58c0797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Micro-Frontend Bugs/2023-10-04 issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "669c293a64e53169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Improvements UDM/Requirements/Duplicate Complaint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f34e79b1742577a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Improvements UDM/Requirements/Duplicate FLAG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e3a0f048a83845e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Improvements UDM/14-11-23-ImageHandling/Approach.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -84,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UPI/DRC/Complaint/complaint.excalidraw.md",
+                "file": "Improvements UDM/14-11-23-ImageHandling/Approach.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UPI/DRC/Complaint/complaint.excalidraw.md",
+                "file": "Improvements UDM/14-11-23-ImageHandling/Approach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UPI/DRC/Complaint/complaint.excalidraw.md"
+                "file": "Improvements UDM/14-11-23-ImageHandling/Approach.md"
               }
             }
           }
@@ -213,45 +263,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "112aec72c6d450e1",
+  "active": "3e87ab4ed8afe637",
   "lastOpenFiles": [
-    "UPI/DRC/Complaint/complaint.excalidraw.png",
-    "UPI/Remitter.md",
-    "UPI/DRC/Complaint/complaint.excalidraw.md",
-    "UPI/API TO IMPLEMENT.md",
-    "UPI/DB/CASE.md",
-    "UPI/DB/DB Strucutre.md",
-    "UPI/DRC/validation.md",
-    "UPI/Complaint.md",
+    "Improvements UDM/14-11-23-ImageHandling/Image Handling.md",
+    "Improvements UDM/14-11-23-ImageHandling/Approach.md",
     "UPI/DRC/DRC_UDM.excalidraw.md",
-    "DRC/complaint.excalidraw.md",
-    "DRC",
-    "UPI/DRC/Dispute",
-    "UPI/DRC/Refund",
-    "UPI/DRC/Reversal",
-    "UPI/DRC/Complaint",
-    "UPI/TODO.md",
-    "UPI/DRC/Drawing 2023-09-28 16.21.46.excalidraw.md",
-    "UPI/18.3_Raise_complaint_RET.excalidraw.md",
-    "UPI/DRC_18.1.excalidraw.md",
-    "UPI/DRC.md",
-    "UPI/DB",
-    "2023-09-27.md",
+    "Improvements UDM/Requirements/Duplicate Complaint.md",
+    "Improvements UDM/14-11-23-ImageHandling",
+    "Deployments/M2P/M2P.md",
+    "Improvements UDM/Requirements/Duplicate FLAG.md",
+    "Deployments/M2P",
+    "Deployments",
+    "NOTES/CMD/CMD commnds.md",
+    "Coding Standards/JAVA.md",
+    "Improvements UDM/Requirements/Drawing 2023-10-31 23.18.18.excalidraw.md",
+    "Improvements UDM/Requirements/Drawing 2023-10-31 23.18.18.excalidraw.svg",
+    "Improvements UDM/Requirements/Restrict Duplicate Calls and handle stauscode in custom exception.md",
+    "2023-10-18.md",
+    "2023-10-05.md",
     "2023-09-25.md",
-    "NER Model Approach.md",
-    "SpaCy.md",
-    "UPI.excalidraw.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
+    "2023-09-27.md",
+    "2023-10-03.md",
+    "NOTES/CMD",
+    "Improvements UDM/Require.md",
+    "Improvements UDM/Requirements",
+    "Improvements UDM/Drawing 2023-10-26 17.08.18.excalidraw.md",
+    "NOTES/GO/GO Initial setUp.md",
+    "NOTES/GO",
+    "Untitled",
+    "UPI/DRC/Complaint/complaint.excalidraw.md",
+    "NOTES/POSTMAN.md",
+    "NOTES",
+    "Improvements UDM/Questionnaire.md",
+    "Improvements UDM/API LEVEL.md",
+    "Improvements UDM/BACKEND.md",
+    "Improvements UDM/FRONTEND.md",
+    "M2P/Requirements/Tenant id and kit Number Flow.md",
+    "Improvements UDM",
+    "M2P/Requirements/Complaint in Linked cases.md",
+    "Things to learn in Backspace",
+    "UPI/DRC/Complaint/complaint.excalidraw.png",
     "Untitled.canvas",
-    "Untitled.md",
-    "UPI/DRC",
-    "UPI/RET.md",
-    "UPI/URCS.md",
-    "UPI/TOTAL FLOW.canvas",
-    "Excalidraw",
-    "UPI",
-    "Coding Standards"
+    "UPI/TOTAL FLOW.canvas"
   ]
 }

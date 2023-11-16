@@ -1,0 +1,1 @@
+- [x] add kit number and tenantid in casepojo
